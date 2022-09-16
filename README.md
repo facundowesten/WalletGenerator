@@ -4,5 +4,5 @@
 To generate wallet:
 
 ```bash
-node generate {amount of wallets to generate}
+node generate {amount}
 ```
