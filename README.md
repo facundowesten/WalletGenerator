@@ -1,7 +1,7 @@
 # Wallet Generator
 
 
-To generate wallet:
+To generate wallets:
 
 ```bash
 node generate {amount}
